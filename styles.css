@@ -1,0 +1,49 @@
+/*estilos genericos*/
+h1{
+                margin-top:20px;
+                margin-right: 25px;
+                margin-bottom: 20px;
+                margin-left: 25px;
+                padding: 25;
+                background-color:orange;
+                color: blue;
+                border-radius:10px;
+                text-align:center;
+            }
+            #cuadro1{
+                color: white;
+                height: 60px;
+                width: 60px;
+                background-color:orange;
+                margin:15px;
+                padding: 10px;
+                border-radius:10px;
+            }
+            
+            #cuadro2{
+                color:#00FFFF;
+                height: 60px;
+                width: 60px;
+                background-color:#9ACD32;
+                margin:15px;
+                padding: 10px;
+                border-radius:10px;
+            }
+            
+            #cuadro3{
+                color:#FFD700;
+                height: 60px;
+                width: 60px;
+                background-color:#800000;
+                margin:15px;
+                padding: 10px;
+                border-radius:10px;
+            }
+            
+            nav{
+                background-color: #ff2;
+            }
+            
+            nav ul li {
+                display: inline;
+            }
